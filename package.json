@@ -15,12 +15,11 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/build-a-discord-bot"
+    "url": "https://github.com/scotticus/dorpbot-node"
   },
   "license": "MIT",
   "keywords": [
     "node",
-    "glitch",
     "express"
   ]
 }
