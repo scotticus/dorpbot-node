@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const logger = require('winston');
-const auth = require('./test-auth.json');
+const auth = require('./auth.json');
 
 const KEYWORD = auth.keyword || 'dorp';
 
